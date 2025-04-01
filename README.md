@@ -5,7 +5,7 @@
   - [Active Directory HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>👨‍💻 SQL Projects:</h2>
 
-  - [Active Directory HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Library System Management](https://github.com/dmsmithjr/Library-System-Management-)
 
 <h2> Certifications </h2>
 
