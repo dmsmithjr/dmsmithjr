@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory HomeLab]
 <h2>👨‍💻 SQL Projects:</h2>
 
   - [Library System Management](https://github.com/dmsmithjr/Library-System-Management-)
