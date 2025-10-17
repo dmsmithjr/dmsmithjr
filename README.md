@@ -3,6 +3,12 @@
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory HomeLab]
+
+* **Linux Health Check Script:** A robust Bash script for automated daily system monitoring (Disk, Memory, Services).
+    * **Link:** [Bash Health Checker](https://github.com/dmsmithjr/System-Health-Check-Scripts) ⬅️ **Click to view code**
+    
+
+---
 <h2>👨‍💻 SQL Projects:</h2>
 
   - [Library System Management](https://github.com/dmsmithjr/Library-System-Management-)
